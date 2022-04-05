@@ -40,9 +40,9 @@ color: white;
 #webstudio{
    color: blue;
 }
-h2{
+#h2{
    font-weight: 36;
-font-size: Bold;
+   font-size: bold;
 }
 h3{
    font-weight: 36;
@@ -64,7 +64,7 @@ h3{
    #webstudio2{
       color: blue;
       text-decoration:none;
-   } #webstudio1{
+   }} #webstudio1{
       color: blue;
       text-decoration:none;
    }
