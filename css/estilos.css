@@ -1,0 +1,84 @@
+#cuerpo{
+font-family: 'Raleway',
+sans-serif;
+font-family: 'Roboto',
+sans-serif;
+color: rgb(0, 0, 0);
+font-size: auto;
+}
+.head1 {   
+color: white;
+line-height: auto;
+background-color: black;
+cursor: pontier;
+}
+#botonservi{
+   cursor: pointer;
+}
+#botonesportafolio{
+   cursor: pointer; 
+}
+#todo {
+   cursor: pointer;
+}
+#sitios {
+   cursor: pointer;
+}
+#aplicaciones {
+   cursor: pointer;
+}
+#diseño{
+   cursor: pointer;
+}
+#marketing{
+   cursor: pointer;
+}
+.foot1{
+background-color: black;
+color: white;
+}
+#webstudio{
+   color: blue;
+}
+h2{
+   font-weight: 36;
+font-size: Bold;
+}
+h3{
+   font-weight: 36;
+   font-weight: bold;
+
+}
+#linkcorreo{
+      color: white;
+      text-decoration:none;
+   }
+   #linknumero {
+      color: white;
+      text-decoration:none;
+   }
+   #webstudio1{
+      color: blue;
+      text-decoration:none;
+   }
+   #webstudio2{
+      color: blue;
+      text-decoration:none;
+   } #webstudio1{
+      color: blue;
+      text-decoration:none;
+   }
+   #webstudio2{
+      color: blue;
+      text-decoration:none;
+   }
+   #webstudio11 {
+      color: blue;
+      text-decoration: none;
+   }
+   
+   #webstudio22 {
+      color: blue;
+      text-decoration: none;
+   }
+   
